@@ -19,4 +19,8 @@
     NSLog(@"what the fuck");
 }
 
+-(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
+{
+    NSLog(@"终于成功了，老子都尼玛尿了");
+}
 @end
